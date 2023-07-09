@@ -28,8 +28,17 @@ ___
 ### 🔥Most Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeongBB&hide=jupyter%20notebook&layout=compact)](https://github.com/YeongBB/github-readme-stats)
 
+<br>
+
 ___
+
+### 📄 Projects
+➡️ [here](https://github.com/YeongBB?tab=repositories)
+
+### 📄 Study
+➡️ [here](https://codepracticeroom.tistory.com/)
 
 <br><br><br><br><br>
 ### Update
- - 2023-07-09-22:09
+ - 2023-07-09-22:53
+ - ~~2023-07-09-22:09~~
