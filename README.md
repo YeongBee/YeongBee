@@ -33,12 +33,15 @@ ___
 ___
 
 ### 📄 Projects
-➡️ [here](https://github.com/YeongBB?tab=repositories)
+  &nbsp; &nbsp; ➡️ [here](https://github.com/YeongBB?tab=repositories)
 
 ### 📄 Study
-➡️ [here](https://codepracticeroom.tistory.com/)
+   &nbsp; &nbsp; ➡️ [here](https://codepracticeroom.tistory.com/)
+
+
 
 <br><br><br><br><br>
 ### Update
- - 2023-07-09-22:53
+ - 2023-07-10-11:24
+ - ~~2023-07-09-22:53~~
  - ~~2023-07-09-22:09~~
