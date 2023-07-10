@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ___
 
-### ⚙️ skill
+### ⚙️ Skill
 <pre>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=Color=white"> 
 </pre>
