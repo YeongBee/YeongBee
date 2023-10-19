@@ -25,7 +25,7 @@ ___
 
 
 ### 🔥Most Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeongBB&hide=jupyter%20notebook&layout=compact)](https://github.com/YeongBB/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeongBee&hide=jupyter%20notebook&layout=compact)](https://github.com/YeongBB/github-readme-stats)
 
 <br>
 
