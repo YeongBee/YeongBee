@@ -32,7 +32,7 @@ ___
 ___
 
 ### 📄 Projects
-  &nbsp; &nbsp; ➡️ [here](https://github.com/YeongBB?tab=repositories)
+  &nbsp; &nbsp; ➡️ [here](https://github.com/YeongBee?tab=repositories)
 
 ### 📄 Study
    &nbsp; &nbsp; ➡️ [here](https://codepracticeroom.tistory.com/)
