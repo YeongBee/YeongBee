@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m @YeongBee
-- 📫 How to reach me  ->  handfaste@naver.com
+- 📫 How to reach me  ->  cyeongbb@gmail.com
 
 
 <!---
