@@ -2,7 +2,7 @@
 # Introduce yourself
 
 
-- 👋 Hi, I’m @YeongBB
+- 👋 Hi, I’m @YeongBee
 - 📫 How to reach me  ->  handfaste@naver.com
 
 
