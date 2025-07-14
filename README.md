@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 안녕하세요, 저는 **최영범**입니다!
+# 👋 안녕하세요, 저는 **개발자 최영범**입니다!
 
-### 🚀 *개발자* from 🇰🇷 Korea
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%26+Spring+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
